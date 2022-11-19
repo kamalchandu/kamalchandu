@@ -12,8 +12,6 @@
 
 - 📫 You can Email me at **kamalchandu2000@gmail.com**
 
-- ⚡ Fun fact **I think i'm Filled with crazy stuff!!!  &#128540; &#128540; &#128540; 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/@kamal_chandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kamal_chandu" height="30" width="40" /></a>
