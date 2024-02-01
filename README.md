@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)
-<h1 >Hi There 👋, I'm Kamal Chandu you can call me chandu</h1>
+<h1 >Hi There 👋, I'm Kamal Chandu.</h1>
 <h3 >Enthusiastic Tech Learner committed to continuous growth. Embracing the ever-evolving world of Technology with curiosity and a passion for exploring new possibilities. </h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> Catch me at Instagram <strong> <a href="https://instagram.com/@kamal_chandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kamal_chandu" height="30" width="40" /></a> ID@kamal_chandu </strong> </p>
